@@ -1,0 +1,11 @@
+git status
+git init --inicializa el repositorio
+git config --global user.name, "Let's Kode It"
+git config --global user.email, letskodeit@gmail.com
+git config user.name "Let's Kode It"
+git config user.email letskodeit@gmail.com
+git add
+gir commit -m "message you want to include"
+git log
+git diff <filename>
+otra linea
